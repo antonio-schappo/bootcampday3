@@ -1,3 +1,5 @@
+package ExerciseOne;
+
 public class CitiesTemperatures {
 
     public static void main (String[] args) {
