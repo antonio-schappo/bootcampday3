@@ -23,6 +23,6 @@ public class Person {
     }
 
     public void enroll (Category category) {
-
+        category.addParticipant(new Person(rg, name, lastName, age, cell, emergency, bloodType));
     }
 }
